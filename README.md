@@ -1,12 +1,10 @@
-# Sushii64 / Katie K.
+# Sushii64 / Jade K.
 haiii *:3* 
 
 nerdy transgirl on the internet _(she/her)_
 
-I main Python but I'm learning Rust because why not :3 
+I main HTML/JS mostly but I know a bunch of other things.
 
 https://sushii64.com/bio
-
-> _"why is it so thick im scared"_ - katie 2024
 
 ![Metrics](/github-metrics.svg)
